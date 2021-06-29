@@ -1,15 +1,18 @@
 // Abstracts
 @import "abstracts/mixins";
+@import "abstracts/svg";
 
 // Base
 @import "base/base";
 
 // Components
 @import "components/nav";
+@import "components/overlay";
 
 // Layout
 @import "layouts/hero";
 @import "layouts/layout";
+@import "layouts/previous-thumbnails";
 
 // Pages
 @import "pages/home";
